@@ -1,21 +1,23 @@
-﻿<Properties>
+﻿<Properties StartupConfiguration="{EB9D5466-F328-4147-9B2C-860BB549163E}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="MSTest/UnitTest1.cs">
     <Files>
-      <File FileName="MSTest/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="MSTest/UnitTest1.cs" Line="14" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MSTest" expanded="True">
-            <Node name="MSTest" expanded="True">
-              <Node name="UnitTest1.cs" selected="True" />
+            <Node name="MSTest" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.MSTest FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MSTest FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
