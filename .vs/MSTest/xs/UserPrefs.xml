@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{EB9D5466-F328-4147-9B2C-860BB549163E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MSTest/UnitTest1.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="MSTest/UnitTest1.cs" Line="14" Column="1" />
     </Files>
@@ -7,10 +7,11 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MSTest" expanded="True">
-            <Node name="MSTest" expanded="True" selected="True">
+            <Node name="MSTest" expanded="True">
               <Node name="Dependencies" expanded="True">
                 <Node name="PackageDependencies" expanded="True" />
               </Node>
+              <Node name="UnitTest1.cs" selected="True" />
             </Node>
           </Node>
         </State>
