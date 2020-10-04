@@ -1,0 +1,15 @@
+/Users/mahmoud.omara/Desktop/DotNet Projects/MSTest/MSTest/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/mahmoud.omara/Desktop/DotNet Projects/MSTest/MSTest/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/mahmoud.omara/Desktop/DotNet Projects/MSTest/MSTest/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/mahmoud.omara/Desktop/DotNet Projects/MSTest/MSTest/bin/Debug/netcoreapp2.1/MSTest.deps.json
+/Users/mahmoud.omara/Desktop/DotNet Projects/MSTest/MSTest/bin/Debug/netcoreapp2.1/MSTest.runtimeconfig.json
+/Users/mahmoud.omara/Desktop/DotNet Projects/MSTest/MSTest/bin/Debug/netcoreapp2.1/MSTest.runtimeconfig.dev.json
+/Users/mahmoud.omara/Desktop/DotNet Projects/MSTest/MSTest/bin/Debug/netcoreapp2.1/MSTest.dll
+/Users/mahmoud.omara/Desktop/DotNet Projects/MSTest/MSTest/bin/Debug/netcoreapp2.1/MSTest.pdb
+/Users/mahmoud.omara/Desktop/DotNet Projects/MSTest/MSTest/obj/Debug/netcoreapp2.1/MSTest.csprojAssemblyReference.cache
+/Users/mahmoud.omara/Desktop/DotNet Projects/MSTest/MSTest/obj/Debug/netcoreapp2.1/MSTest.AssemblyInfoInputs.cache
+/Users/mahmoud.omara/Desktop/DotNet Projects/MSTest/MSTest/obj/Debug/netcoreapp2.1/MSTest.AssemblyInfo.cs
+/Users/mahmoud.omara/Desktop/DotNet Projects/MSTest/MSTest/obj/Debug/netcoreapp2.1/MSTest.csproj.CoreCompileInputs.cache
+/Users/mahmoud.omara/Desktop/DotNet Projects/MSTest/MSTest/obj/Debug/netcoreapp2.1/MSTest.dll
+/Users/mahmoud.omara/Desktop/DotNet Projects/MSTest/MSTest/obj/Debug/netcoreapp2.1/MSTest.pdb
+/Users/mahmoud.omara/Desktop/DotNet Projects/MSTest/MSTest/obj/Debug/netcoreapp2.1/MSTest.genruntimeconfig.cache

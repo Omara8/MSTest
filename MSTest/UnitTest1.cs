@@ -8,6 +8,8 @@ namespace MSTest
         [TestMethod]
         public void TestMethod1()
         {
+            Assert.AreEqual(2, 2);
         }
+
     }
 }
